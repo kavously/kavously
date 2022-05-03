@@ -9,20 +9,13 @@
 </p>
 
 
-<img align="left" height="200" src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b7611832b243baaa7bda6226a95774d885dae0f2ec624&rid=giphy.gif&ct=g"/>
+<img align="left" height="200" src="https://c.tenor.com/oJoWZIWxt3wAAAAC/the-hacker-matrix.gif"/>
 
 ```diff
 @@Info@@
 🐱‍👤 Developer c++ , lua , js , html , sql , php , java
 
 ```
-
-
-
-
-
-
-
 
 ### My Stats !
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kavously&count_private=true&show_icons=true?theme=buefy)
