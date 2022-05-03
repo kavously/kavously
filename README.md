@@ -9,7 +9,7 @@
 </p>
 
 
-<img align="left" height="200" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW"/>
+<img align="left" height="200" src="https://media3.giphy.com/media/ao9DUiTKH60XS/giphy.gif?cid=790b76112eb5734267c5aad2e6f14eb8419dfda448274956&rid=giphy.gif&ct=s"/>
 
 ```diff
 @@Info@@
