@@ -13,7 +13,6 @@
 
 
 ```diff
-@@Info@@
 🐱‍👤 Developer c++ , lua , js , html , sql , php , java
 
 ```
