@@ -9,7 +9,7 @@
 </p>
 
 
-<img align="left" height="200" src="https://images-ext-2.discordapp.net/external/qlNC55hhPgWK3Joa-1hgVTafKndDbaX8uBf9gyrCQ8/https/media.tenor.com/5ry200hErMAAAPo/hackerhacker-man.mp4"/>
+<img align="left" height="200" src="https://images-ext-2.discordapp.net/external/mi0qzU9_daAKBEojyxcpGRqLXgtjbty4okKCmuMSEP8/https/media.tenor.com/Z_Ah8rkdZ4YAAAPo/walking-code.mp4"/>
 
 ```diff
 @@Info@@
