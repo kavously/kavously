@@ -13,7 +13,7 @@
 
 ```diff
 @@Info@@
-🚀 I'm still learning languages like
+🐱‍👤 Developer c++ , lua , js , html , sql , php , java
 
 ```
 
@@ -27,8 +27,5 @@
 ### My Stats !
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kavously&count_private=true&show_icons=true?theme=buefy)
 
-
-## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/p0li3h/count.svg)
 
 <br />
