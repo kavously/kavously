@@ -1,11 +1,5 @@
 ```
-      ,~~.
-     (  9 )-_,
-(\___ )=='-'
- \ .   ) )
-  \ `-' /
-   `~j-'   Kavously#9999
-     "=:
+ My Discord : Kavously#9999
                                                           
 ```
 <h1 align="center">Hi <img src="https://cdn.discordapp.com/attachments/967148118573473852/970868536861925376/one-piece-icegif-3.gif" width="40px" />, I'm Kavously</h1>
