@@ -9,7 +9,7 @@
 </p>
 
 
-<img align="left" height="200" src="https://media4.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy.gif"/>
+<img align="left" height="200" src="https://media2.giphy.com/media/3o6MbrQELrt6NcJm5W/giphy.gifcid=ecf05e47nk90n7mgog33gu6jk4fec5d5v7yyowo4ld7ejdps&rid=giphy.gif&ct=g"/>
 
 ```diff
 @@Info@@
