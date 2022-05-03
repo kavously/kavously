@@ -8,7 +8,7 @@
      "=:
                                                           
 ```
-<h1 align="center">Hi <img src="https://sokin.eu/syf/Hi.gif" width="40px" />, I'm p0li3h</h1>
+<h1 align="center">Hi <img src="https://cdn.discordapp.com/attachments/967148118573473852/970868536861925376/one-piece-icegif-3.gif" width="40px" />, I'm Kavously</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=500&lines=Welcome+|" />
