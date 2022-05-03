@@ -31,7 +31,7 @@
 
 
 ### My Stats !
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=p0li3h&count_private=true&show_icons=true?theme=buefy)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kavously&count_private=true&show_icons=true?theme=buefy)
 
 
 ## Visitor Count
