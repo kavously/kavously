@@ -9,7 +9,7 @@
 </p>
 
 
-<img align="left" height="200" src="https://tenor.com/view/ninjala-jane-hacker-hacking-computer-gif-20337624"/>
+<img align="left" height="200" src="https://images-ext-2.discordapp.net/external/qlNC55hhPgWK3Joa-1hgVTafKndDbaX8uBf9gyrCQ8/https/media.tenor.com/5ry200hErMAAAPo/hackerhacker-man.mp4"/>
 
 ```diff
 @@Info@@
