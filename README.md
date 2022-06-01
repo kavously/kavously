@@ -2,7 +2,7 @@
  My Discord : Kavously#9999
                                                           
 ```
-<h1 align="center">Hi <img src="https://tenor.com/view/peach-sad-goma-gif-20502310" width="40px" />, I'm Kavously</h1>
+<h1 align="center">Hi <img src="https://tenor.com/view/walking-code-computer-gif-11570098" width="40px" />, I'm Kavously</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=500&lines=Welcome+|" />
