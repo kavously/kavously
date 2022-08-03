@@ -1,5 +1,5 @@
 ```
- My Discord : Krusty#7679
+ My Discord : <--! "Ờωйệř#7694
                                                           
 ```
 <h1 align="center">Hi, I'm Kavously</h1>
